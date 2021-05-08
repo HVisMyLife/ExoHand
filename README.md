@@ -2,7 +2,9 @@
 # ExoHand
 Exoskeleton build repo
 
-![IMG_3126](https://user-images.githubusercontent.com/63451920/117532640-c22dff80-afe8-11eb-9caf-883b66f295d6.JPG)
+
+![IMG_4078v2](https://user-images.githubusercontent.com/63451920/117547469-0c869f00-b030-11eb-9788-6f2151dba418.png)
+
 
 I have decided few weeks ago, to design and make a prototype of an exoskeleton that would help people with disabilities in their normal functioning.
 It was assumed that the designed device will support the rehabilitation of patients after elbow and hand injuries by mechanically "powering" these joints.
