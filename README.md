@@ -5,6 +5,7 @@ Exoskeleton build repo
 
 ![IMG_4078v2](https://user-images.githubusercontent.com/63451920/117547469-0c869f00-b030-11eb-9788-6f2151dba418.png)
 
+Video: https://youtu.be/7lpqHJdtj9U
 
 I have decided few weeks ago, to design and make a prototype of an exoskeleton that would help people with disabilities in their normal functioning.
 It was assumed that the designed device will support the rehabilitation of patients after elbow and hand injuries by mechanically "powering" these joints.
